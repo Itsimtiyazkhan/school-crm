@@ -1,0 +1,21 @@
+{
+  "name": "schola-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.10.0",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.30.1",
+    "multer": "^2.0.2",
+    "pdfkit": "^0.17.2",
+    "xlsx": "^0.18.5"
+  }
+}
